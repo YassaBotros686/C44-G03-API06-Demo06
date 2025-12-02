@@ -12,7 +12,7 @@ using ECommerce.Web.CustomMiddleWares;
 using ECommerce.Web.Extensions;
 using ECommerce.Web.Factories;   
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;    
 using Microsoft.EntityFrameworkCore;
 using StackExchange.Redis;
 using System.Threading.Tasks;
